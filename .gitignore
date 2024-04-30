@@ -1,11 +1,4 @@
-_site
+.bundle
 .sass-cache
-.jekyll-metadata
-node_modules
-assets
-yarn-error.log
-.yarnclean
-
-# editors
-.idea
-.jekyll-cache
+_site
+Gemfile.lock
