@@ -10,6 +10,9 @@ playstore_link                            :   https://play.google.com/store/apps
 presskit_download_link                    :
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
+company_icon                                  : assets/logo.png
+company_name                                 : Wonderple
+
 app_icon                                  : assets/appicon.png
 app_name                                 : Wonder Fridge
 app_price                                 :
