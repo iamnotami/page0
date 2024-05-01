@@ -96,7 +96,10 @@ social_icons_background_color             : "#e6e6e6"
 footer_text_color                         : "#666666"
 
 
-
+languages: ["en", "it", "de", "fr", "ko"]
+default_lang: "en"
+exclude_from_localization: ["_includes", "_layouts", "_pages", "_sass"]
+parallel_localization: true
 
 
 
