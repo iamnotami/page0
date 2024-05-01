@@ -6,7 +6,7 @@ ios_app_id                                :
 ios_app_country                           :
 
 appstore_link                             :   
-playstore_link                            :   https://play.google.com/store/apps/
+playstore_link                            :   https://play.google.com/store/apps/details?id=com.meolly.fridge
 presskit_download_link                    :
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
