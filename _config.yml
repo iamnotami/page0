@@ -101,9 +101,13 @@ default_lang: "en"
 exclude_from_localization: ["_includes", "_layouts", "_pages", "_sass"]
 parallel_localization: true
 
-
-
-
+# data
+hello:
+  en: Hello!
+  it: Ciao!
+  de: Hallo!
+  fr: Bonjour!
+  ko: 안녕하세요!
 
 
 
