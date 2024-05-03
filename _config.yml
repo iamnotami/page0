@@ -15,6 +15,7 @@ app_name                                  : Wonder Fridge
 app_price                                 :
 app_description                           : Wonderful, Easy Groceries Organizer
 
+eng : eng.html
 
 features                                  :
   - title                                 : Personal fridge
