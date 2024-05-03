@@ -64,7 +64,7 @@
 	<div class="footerLinks">
 		{% for page in site.pages %}
 			{% if page.include_in_footer == true %}
-				{% if page.language == kor %}
+				{% if page.language == "kor" %}
 					<a href="{{ page.url }}" target="_self">{{ page.title }}</a>
 				{% endif %}	
 			{% endif %}
