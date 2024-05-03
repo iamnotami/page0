@@ -3,7 +3,7 @@ layout: page
 title: 이용약관
 include_in_header: false
 include_in_footer: true
-language: eng
+language: kor
 ---
 
 **Last updated**  

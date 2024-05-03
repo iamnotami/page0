@@ -3,6 +3,7 @@ layout: page
 title: 개인정보 처리방침
 include_in_header: false
 include_in_footer: true
+language: kor
 ---
 
 **마지막 업데이트**  
