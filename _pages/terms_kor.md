@@ -1,15 +1,15 @@
 ---
 layout: page
 title: 이용약관
-title_eng: Terms of Service
 include_in_header: false
 include_in_footer: true
+language: eng
 ---
 
 **Last updated**  
-August 1 2019
+May 8 2024
 
-# Privacy Policy
+# 서비스 이용약관
 Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
 **Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
