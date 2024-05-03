@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Privacy Policy
+title: 개인정보 처리방침
+title_eng: Privacy Policy
 include_in_header: false
 include_in_footer: true
 ---
 
-**Last updated**  
+**마지막 업데이트**  
 August 1 2019
 
-# Privacy Policy
+# 개인정보 처리방침
 Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
 **Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.

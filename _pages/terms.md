@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Terms of Service
+title: 이용약관
+title_eng: Terms of Service
 include_in_header: false
 include_in_footer: true
 ---
