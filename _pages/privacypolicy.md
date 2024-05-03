@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Korean
+title: Privacy Policy
 include_in_header: false
 include_in_footer: true
 ---
