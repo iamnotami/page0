@@ -1,7 +1,8 @@
 ---
 layout: page
-title: What's New
+title: English
 include_in_header: true
+include_in_footer: false
 ---
 
 # Changelog

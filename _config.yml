@@ -16,9 +16,7 @@ app_price                                 :
 app_description                           : Wonderful, Easy Groceries Organizer
 
 
-# Feature List                            Edit, add or remove features to be presented.
 features                                  :
-
   - title                                 : Personal fridge
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
     fontawesome_icon_name                 : user
@@ -29,7 +27,7 @@ features                                  :
 
   - title                                 : Food items
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : cutlery
+    fontawesome_icon_name                 : book
 
   - title                                 : Easy to add
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
@@ -48,61 +46,29 @@ features                                  :
     fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
-
-# Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
-
 cover_image                               : assets/headerimage.png
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
-
 device_color                              : black
-
 body_background_color                     : "#ffffff"
-
 link_color                                : "#346ed6"
-
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
-
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
-
 feature_icons_foreground_color            : "#346ed6"
 feature_icons_background_color            : "#e6e6e6"
-
 social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
-
 footer_text_color                         : "#666666"
 
-
-languages: ["en", "it", "de", "fr", "ko"]
-default_lang: "en"
-exclude_from_localization: ["_pages", "_sass"]
-parallel_localization: false
-
-# data
-hello:
-  en: Hello!
-  it: Ciao!
-  de: Hallo!
-  fr: Bonjour!
-  ko: 안녕하세요!
-
-
-####################################################
-### Jekyll Configuration. No need to touch this. ###
-####################################################
-
-# Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed # You might prefer to minify using :compressed
+  style: :compressed
 
-# Exclude these files from your production _site
 exclude:
   - LICENSE
   - README.md
@@ -113,5 +79,4 @@ collections:
     output: true
     permalink: /:path/
 
-# Markdown rendering
 markdown: kramdown
