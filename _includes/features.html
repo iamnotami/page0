@@ -2,7 +2,7 @@
 
     {% for feature in site.features %}
 
-    {% if feature.title_kor %}
+    {% if feature.title %}
     <div class="feature">
         <div>
             <span class="fa-stack fa-1x">
@@ -12,10 +12,10 @@
         </div>
         <div class="featureText">
             <h3>
-                {{ feature.title_kor }}
+                {{ feature.title }}
             </h3>
             <p>
-                {{ feature.description_kor }}
+                {{ feature.description }}
             </p>
         </div>
     </div>
