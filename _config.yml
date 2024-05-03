@@ -11,7 +11,8 @@ company_icon                              :
 company_name                              : Wonderple
 
 app_icon                                  : assets/appicon.png
-app_name                                  : Wonder Fridge
+app_name                                  : 원더 프리지
+app_name_eng                              : Wonder Fridge
 app_price                                 :
 app_description                           : Wonderful, Easy Groceries Organizer
 
