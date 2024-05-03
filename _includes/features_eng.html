@@ -2,7 +2,7 @@
 
     {% for feature in site.features %}
 
-    {% if feature.title %}
+    {% if feature.title_eng %}
     <div class="feature">
         <div>
             <span class="fa-stack fa-1x">
@@ -12,10 +12,10 @@
         </div>
         <div class="featureText">
             <h3>
-                {{ feature.title }}
+                {{ feature.title_eng }}
             </h3>
             <p>
-                {{ feature.title }}
+                {{ feature.description_eng }}
             </p>
         </div>
     </div>
