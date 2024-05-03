@@ -1,21 +1,17 @@
-#page title
-page_title                                :  Wonderple                                         # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : Wonderple
 
-# App Info
 ios_app_id                                :
 ios_app_country                           :
-
-appstore_link                             :   
-playstore_link                            :   https://play.google.com/store/apps/details?id=com.meolly.fridge
+appstore_link                             :
+playstore_link                            : https://play.google.com/store/apps/details?id=com.meolly.fridge
 presskit_download_link                    :
-                                                                                      # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
-shortcut_icon                                  : assets/shortcut.png
-company_icon                                  : assets/logo.png
-company_name                                 : Wonderple
+shortcut_icon                             : assets/shortcut.png
+company_icon                              : assets/logo.png
+company_name                              : Wonderple
 
 app_icon                                  : assets/appicon.png
-app_name                                 : Wonder Fridge
+app_name                                  : Wonder Fridge
 app_price                                 :
 app_description                           : Wonderful, Easy Groceries Organizer
 
@@ -23,41 +19,29 @@ app_description                           : Wonderful, Easy Groceries Organizer
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
+  - title                                 : Personal fridge
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
     fontawesome_icon_name                 : magic
     
-  - title                                 : iPhone Device Preview
+  - title                                 : Family fridge
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : users
 
-  - title                                 : Video Support
+  - title                                 : Shopping list
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : shopping-basket
 
-  - title                                 : Automatic Icon and Metadata
+  - title                                 : Easy to add
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+    fontawesome_icon_name                 : pencil
 
-  - title                                 : Easy to Tweak
+  - title                                 : Notify
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+    fontawesome_icon_name                 : bell
   
-  - title                                 : Feature List
+  - title                                 : Food items
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+    fontawesome_icon_name                 : cutlery
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
@@ -70,15 +54,15 @@ topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : assets/headerimage.png
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
-device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
+device_color                              : black
 
 body_background_color                     : "#ffffff"
 
-link_color                                : "#1d63ea"
+link_color                                : "#346ed6"
 
 app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
@@ -87,7 +71,7 @@ app_description_color                     : "#ffffff"
 feature_title_color                       : "#000000"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#1d63ea"
+feature_icons_foreground_color            : "#346ed6"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
@@ -108,10 +92,6 @@ hello:
   de: Hallo!
   fr: Bonjour!
   ko: 안녕하세요!
-
-
-
-
 
 
 ####################################################
