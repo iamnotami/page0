@@ -7,7 +7,7 @@ playstore_link                            : https://play.google.com/store/apps/d
 presskit_download_link                    :
 
 shortcut_icon                             : assets/shortcut.png
-company_icon                              : assets/logo.png
+company_icon                              : 
 company_name                              : Wonderple
 
 app_icon                                  : assets/appicon.png
@@ -21,27 +21,27 @@ features                                  :
 
   - title                                 : Personal fridge
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+    fontawesome_icon_name                 : user
     
   - title                                 : Family fridge
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
     fontawesome_icon_name                 : users
 
-  - title                                 : Shopping list
+  - title                                 : Food items
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : shopping-basket
+    fontawesome_icon_name                 : cutlery
 
   - title                                 : Easy to add
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : pencil
+    fontawesome_icon_name                 : plus
 
   - title                                 : Notify
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : bell
   
-  - title                                 : Food items
+  - title                                 : Shopping list
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : cutlery
+    fontawesome_icon_name                 : shopping-basket
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
