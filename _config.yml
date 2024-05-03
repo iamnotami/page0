@@ -15,10 +15,6 @@ app_name                                  : Wonder Fridge
 app_price                                 :
 app_description                           : Wonderful, Easy Groceries Organizer
 
-eng : eng.html
-kor : kor.html
-index : index.html
-
 features                                  :
   - title                                 : Personal fridge
     description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
