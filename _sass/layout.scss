@@ -284,6 +284,12 @@ nav > ul li a:active {
 	color: $app-title-color;
 }
 
+.appPrice {
+	color: $app-price-color;
+	font-weight: normal;
+	margin-top: 13px;
+}
+
 @media only screen and (max-width: 768px) {
 
 	.appNameContainer {
@@ -296,7 +302,12 @@ nav > ul li a:active {
 	.appName {
 		margin-top: 30px;
 		text-align: center;
-	}	
+	}
+
+	.appPrice {
+		margin-top: 13px;
+		text-align: center;
+	}
 } 
 
 .appDescriptionContainer {
