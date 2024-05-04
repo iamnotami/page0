@@ -20,13 +20,13 @@ features                                  :
   - title                                 : 개인 냉장고
     title_eng                             : Personal fridge
     description                           : 로그인 없이도 간편하게 냉장고를 관리할 수 있어요.
-    description_eng                       : You can easily manage your fridge without login.
+    description_eng                       : You can simply manage your fridge without any login.
     fontawesome_icon_name                 : user
     
   - title                                 : 패밀리 냉장고
     title_eng                             : Family fridge
-    description                           : 가족과 함께 냉장고를 관리할 수 있어요.
-    description_eng                       : You can manage your fridge with your family.
+    description                           : 가족을 초대해 함께 냉장고를 관리할 수도 있어요.
+    description_eng                       : You can also invite your family to manage the fridge together.
     fontawesome_icon_name                 : users
 
   - title                                 : 식품 데이터
@@ -50,7 +50,7 @@ features                                  :
   - title                                 : 장보기 목록
     title_eng                             : Shopping list
     description                           : 구매할 식품을 장보기 목록으로 간편하게 관리하세요.
-    description_eng                       : Easily manage your grocery shopping list with the items you need to purchase.
+    description_eng                       : Effortlessly manage your grocery shopping list of items you need to purchase.
     fontawesome_icon_name                 : shopping-basket
 
   - title                                 : # New Feature Title
