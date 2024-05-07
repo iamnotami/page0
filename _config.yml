@@ -78,10 +78,10 @@ social_icons_foreground_color             : "#666666"
 social_icons_background_color             : "#e6e6e6"
 footer_text_color                         : "#666666"
 
-privacy_kor                               : "https://iamnotami.github.io/page0/policy/fridge_privacy_kor.html"
-privacy_eng                               : "https://iamnotami.github.io/page0/policy/fridge_privacy_eng.html"
-terms_kor                                 : "https://iamnotami.github.io/page0/policy/fridge_terms_kor.html"
-terms_eng                                 : "https://iamnotami.github.io/page0/policy/fridge_terms_eng.html"
+privacy_kor                               : "https://sites.google.com/view/meolly-fridge-pp-ko"
+privacy_eng                               : "https://sites.google.com/view/meolly-fridge-pp"
+terms_kor                                 : "https://sites.google.com/view/meolly-fridge-tc-ko"
+terms_eng                                 : "https://sites.google.com/view/meolly-fridge-tc"
 
 sass:
   style: :compressed
