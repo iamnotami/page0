@@ -21,7 +21,7 @@ features                                  :
     title_eng                             : Your Fridge, at a Glance
     description                           : 간편하게 냉장고를 관리할 수 있어요.
     description_eng                       : Easily manage your fridge with simplicity.
-    fontawesome_icon_name                 : snowflake-o
+    fontawesome_icon_name                 : thumbs-up
     
   - title                                 : 패밀리 냉장고
     title_eng                             : Family Fridge
